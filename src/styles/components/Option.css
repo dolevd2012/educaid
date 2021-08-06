@@ -1,0 +1,63 @@
+.LoginLink {
+    float: left;
+    left: 0;
+    margin-left: 25px;
+    padding: 0px 40px;
+    background: linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+    background-color: #44c767;
+    border-radius: 28px;
+    border: 1px solid #18ab29;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #2f6627;
+}
+
+.LoginLink i {
+    margin-right: 8px;
+}
+
+.LoginLink:hover {
+    background: linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+    background-color: #5cbf2a;
+}
+
+.LoginLink:active {
+    position: relative;
+    top: 1px;
+}
+
+
+.MainMenuLinks {
+    font-size: 18px;
+    margin: 2px 25px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+}
+
+.MainMenuLinks i {
+    margin-right: 5px;
+}
+
+
+.MainMenuLinks:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.Options {
+    position: fixed;
+    right: 0;
+    width: 100%;
+    top: 160px;
+    padding: 10px;
+    display: inline-block;
+    background-color: white;
+    min-width: 1220px;
+    direction: rtl;
+}

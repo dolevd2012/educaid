@@ -1,0 +1,74 @@
+.sidebar {
+    background-color: white;
+    position: fixed;
+    right: 0;
+    top: 190px;
+    height: 570px;
+    width: 20%;
+    text-align: center;
+    color: rgb(41, 41, 41);
+    font-size: 20px;
+}
+
+.sidebar ul {
+    margin-top: 0px;
+    padding: 0px 16px;
+    list-style-type: none;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: rgb(41, 41, 41);
+}
+
+.sidebar a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.user-details img {
+    border-radius: 50%;
+}
+
+.loader {
+    margin-left: 100px;
+    border: 16px solid #b1b1b1;
+    border-top: 16px solid rgb(100, 8, 8);
+    border-radius: 50%;
+    width: 66px;
+    height: 66px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.logoutButton {
+    box-shadow: inset 0px 1px 0px 0px #f5978e;
+    background: linear-gradient(to bottom, #f24537 5%, #c62d1f 100%);
+    background-color: #f24537;
+    border-radius: 8px;
+    border: 2px solid #d02718;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #810e05;
+    margin-top: 40px;
+}
+
+.logoutButton:hover {
+    background: linear-gradient(to bottom, #c62d1f 5%, #f24537 100%);
+    background-color: #c62d1f;
+}

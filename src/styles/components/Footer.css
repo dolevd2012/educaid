@@ -1,0 +1,14 @@
+.Footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 35px;
+    color: white;
+    text-align: center;
+    background-color: rgb(100, 8, 8);
+
+}
+
+.Footer h5 {
+    margin-top: 0.55%;
+}

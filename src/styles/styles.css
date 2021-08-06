@@ -1,0 +1,53 @@
+@import './components/ContentBody';
+@import './components/Header';
+@import './components/Footer';
+@import './components/Option';
+@import './components/CaseBox';
+@import './components/Sidebar';
+@import './components/rating';
+@import './components/Tests';
+@import './components/statistic';
+@import './components/Home';
+
+.BreakLine {
+    position: fixed;
+    width: 100%;
+    top: 191px;
+    background-color: rgb(211, 211, 211)
+}
+
+.blueButton {
+    box-shadow: inset 0px 1px 0px 0px #97c4fe;
+    background: linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
+    background-color: #3d94f6;
+    border-radius: 8px;
+    border: 2px solid #337fed;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 2px 5px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #1570cd;
+}
+
+.blueButton:hover {
+    background: linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+    background-color: #1e62d0;
+}
+
+.completePage {
+    position: fixed;
+    height: 100%;
+    min-height: 1350px;
+    width: 100%;
+    background-color: rgb(224, 224, 224);
+}
+
+.graph {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}

@@ -1,0 +1,43 @@
+.ContentBody {
+    position: fixed;
+    top: 200px;
+    height: 53%;
+    width: 100%;
+    overflow: auto;
+    text-align: center;
+    color: rgb(41, 41, 41);
+}
+
+.ContentBody li {
+    display: inline-block;
+    padding: 0px 17px;
+    font-size: 18px;
+}
+
+.ContentBody2 {
+    position: fixed;
+    top: 200px;
+    height: 69%;
+    width: 80%;
+    overflow: auto;
+    text-align: center;
+    color: rgb(41, 41, 41);
+
+}
+
+.ContentBodyMyTests {
+    position: fixed;
+    top: 200px;
+    height: 69%;
+    width: 80%;
+    overflow: auto;
+    text-align: center;
+    color: rgb(41, 41, 41);
+
+}
+
+.ContentBody2 li {
+    display: inline-block;
+    padding: 0px 17px;
+    font-size: 18px;
+}
