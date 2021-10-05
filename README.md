@@ -28,5 +28,23 @@ Database – MySQL
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### Entering the personal area using login
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74798510/136116886-efd42ee1-6b5b-4328-9254-04789ce21c0e.gif)
