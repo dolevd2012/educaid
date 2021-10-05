@@ -23,10 +23,10 @@ Database – MySQL
 
 
 ### Examples
-openning study case
+##### openning study case
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74798510/136116773-ac4a01b0-3078-45e0-8d73-578db3b4add0.gif)
 
 
 
-Entering the personal area using login
+##### Entering the personal area using login
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74798510/136116886-efd42ee1-6b5b-4328-9254-04789ce21c0e.gif)
