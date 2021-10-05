@@ -17,6 +17,6 @@ The project was selected to be part of the college's annual projects exhibition.
 ### Inside the project
 Backend - Java (Spring Boot), Frontend - React.js
 System is integrated with multiple cloud services:
-#### https://www.emailjs.com/ 
-#### https://auth0.com/ 
+#### A. https://www.emailjs.com/ 
+#### B. https://auth0.com/ 
 Database – MySQL
